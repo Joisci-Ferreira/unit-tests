@@ -16,7 +16,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 ## Projeto
 
-Projeto desenvolvido no módulo de fundamentros do curso da Trybe, onde foi desenvolvido a implementação de várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas
+Projeto desenvolvido no módulo de fundamentos do curso da Trybe, onde foi desenvolvido a implementação de várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas
 
 
 ## Habilidades
